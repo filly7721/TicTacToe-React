@@ -1,6 +1,7 @@
 # Tic-Tac-Toe on the Web Browser!
 
 Built using React
+Made to demonstrate knowledge of React Components and States
 
 ## Features
 
@@ -9,6 +10,6 @@ Built using React
   
 ## Preview
 
-behold my greates artwork  
+behold my greatest artwork  
 
 ![Great artwork](./public/preview.png)
